@@ -21,3 +21,7 @@
 2021-12-13/10:35:03		Closed Training database successfully
 2021-12-13/10:35:03		Opened Training database successfully
 2021-12-13/10:35:09		Opened Training database successfully
+2021-12-13/11:30:36		Opened Training database successfully
+2021-12-13/11:30:36		Closed Training database successfully
+2021-12-13/11:30:36		Opened Training database successfully
+2021-12-13/11:30:43		Opened Training database successfully
